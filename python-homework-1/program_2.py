@@ -1,3 +1,5 @@
+# Simple bill calculator
+
 price = float(input("Enter the price of the product: "))
 quantity = int(input("Enter the quantity of the product: "))
 total_price = price * quantity
