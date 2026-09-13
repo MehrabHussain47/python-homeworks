@@ -1,14 +1,12 @@
 # Explore with memory id()
 
-a = 200
-b = 200
+a = 200; b = 200
 print("a is b: ", a is b)
 print("Memory ID of a:", id(a))
 print("Memory ID of b:", id(b))
 
 
-a = 2000
-b = 2000
+a = 2000; b = 2000
 print("a is b: ", a is b)
 print("Memory ID of a:", id(a))
 print("Memory ID of b:", id(b))
