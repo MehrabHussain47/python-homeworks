@@ -6,5 +6,5 @@ Student = {
   "CGPA": 3.4,
   "Subject": "CSE"
 }
-print("Student name is: ", Student.get("Name"))
-print("Studnet age is: ",Student.get("Age"))
+print("Student name is:", Student.get("Name"))
+print("Studnet age is:", Student.get("Age"))
